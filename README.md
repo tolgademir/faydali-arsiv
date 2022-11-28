@@ -1,4 +1,4 @@
-# Faydalı Arşiv 
+# Useful Archive
 
 Created by <a href="https://www.tolgademir.dev" target="_blank">tolgademir.dev</a>
 <br>
