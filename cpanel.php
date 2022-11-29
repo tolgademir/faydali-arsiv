@@ -1,3 +1,4 @@
+// cPanel license check
 <?php
 $curl = curl_init();
 curl_setopt($curl, CURLOPT_URL, 'https://myip.cpanel.net/v1.0/');
