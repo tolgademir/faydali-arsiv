@@ -1,8 +1,5 @@
 # Useful Archive
 
-Created by <a href="https://www.tolgademir.dev" target="_blank">tolgademir.dev</a>
-<br>
-
 <a href="https://github.com/tolgademir/faydali-arsiv/blob/main/db.php">db.php</a>
 
 <a href="https://github.com/tolgademir/faydali-arsiv/blob/main/.htaccess">.htaccess</a>
