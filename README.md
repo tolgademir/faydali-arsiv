@@ -10,6 +10,8 @@
 
 <a href="https://github.com/tolgademir/useful-archive/blob/main/array.php">array.php</a>
 
+<a href="https://github.com/tolgademir/useful-archive/blob/main/sabit-degiskenler.php">sabit-degiskenler.php</a>
+
 <br>
 Created by <a href="https://www.tolgademir.dev" target="_blank">tolgademir.dev</a>
 
