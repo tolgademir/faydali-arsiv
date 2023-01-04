@@ -1,7 +1,7 @@
 # Useful Archive
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/40199261/210612282-9bb3ff58-615d-4bb6-a5e7-56d457732ceb.png"/>
+  <img src="https://user-images.githubusercontent.com/40199261/210613936-09404982-9f41-49c5-a0ec-eaaa39ba97b7.jpg"/>
 </p>
 
 # About Useful Archive
