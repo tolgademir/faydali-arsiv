@@ -1,8 +1,8 @@
 <?php
 
-$host 		= "localhost";
-$dbname 	= "";
-$charset 	= "utf8";
+$host       = "localhost";
+$dbname     = "";
+$charset    = "utf8";
 $username   = "";
 $password   = "";
 
