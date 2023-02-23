@@ -28,6 +28,8 @@ Created by <a href="tolgademir.dev">tolgademir.dev</a>
 
 <a href="https://github.com/tolgademir/useful-archive/blob/main/multi-form.php">multi-form.php</a>
 
+<a href="https://github.com/tolgademir/useful-archive/blob/main/color-picker.html">color-picker.html</a>
+
 
 
 
