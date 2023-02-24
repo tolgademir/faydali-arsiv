@@ -1,6 +1,6 @@
 <?php 
 
-define("uye","tolga");
+define("uye","test");
 
 echo uye;
 
