@@ -30,6 +30,8 @@ Created by <a href="tolgademir.dev">tolgademir.dev</a>
 
 <a href="https://github.com/tolgademir/useful-archive/blob/main/color-picker.html">color-picker.html</a>
 
+<a href="https://github.com/tolgademir/useful-archive/blob/main/button-label-clear.txt">button-label-clear.txt</a>
+
 
 
 
