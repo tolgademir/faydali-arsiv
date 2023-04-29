@@ -1,0 +1,12 @@
+foreach (Control item in this.Controls)
+{
+  if (item is TextBox)
+       {
+         (item as TextBox).Clear();
+       }
+
+  if (item is Label myLabel)
+       {
+          label3.Text = "";
+       }
+}
